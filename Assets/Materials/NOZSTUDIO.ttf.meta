@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db7eebd50e4dc237da7027fcb02ca228
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NOZSTUDIO
+  fontNames:
+  - NOZSTUDIO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: baa599a59ee6772f5a268c8e3d4be43d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
