@@ -3,9 +3,9 @@
 <img src="https://lh3.googleusercontent.com/XTftsJH_f3vn_Ae4aZlRE2Oz1UbOK74uFkxcNZsioNc1B1eL1mYM-JsJxRKvMzoUx6w=s180-rw" align="left"
 width="200" hspace="10" vspace="10">
 
-Juego de dados de skate en 3D para desafiar a tus amigos a hacer el truco o practicar tú mismo.
+Skate dice game in 3D to challenge your friends to do the trick or practice yourself.
 
-SkateDice está disponible en Google Play Store.
+SkateDice is available in Google Play Store.
 
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.ChorriApp.SkateDices3D&hl=es_419">
